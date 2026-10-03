@@ -221,3 +221,4 @@ mlruns/
 model_local/
 *.key
 .amlignore
+*.amltmp
