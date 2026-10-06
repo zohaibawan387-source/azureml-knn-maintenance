@@ -1,0 +1,34 @@
+{
+  "input_data": {
+    "columns": [
+      "air_temp_k",
+      "process_temp_k",
+      "rpm",
+      "torque_nm",
+      "tool_wear_min",
+      "type"
+    ],
+    "index": [
+      0,
+      1
+    ],
+    "data": [
+      [
+        298.1,
+        308.6,
+        1551.0,
+        42.8,
+        0.0,
+        "M"
+      ],
+      [
+        302.5,
+        310.9,
+        1325.0,
+        68.2,
+        215.0,
+        "L"
+      ]
+    ]
+  }
+}
